@@ -1,0 +1,4 @@
+*.csv
+__MACOSX
+.vscode
+csv_files
